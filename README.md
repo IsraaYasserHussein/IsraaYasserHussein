@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I am Israa 👋</h1>
-  <img src="https://github.com/IsraaYasserHussein/IsraaYasserHussein/blob/main/18.09.2025_03.18.18_REC.png" width="60%" alt="Profile Banner">
+  <img src="https://github.com/IsraaYasserHussein/IsraaYasserHussein/blob/main/18.09.2025_03.18.18_REC.png" width="50%" alt="Profile Banner">
 </div>
 
 ---
