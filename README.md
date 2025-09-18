@@ -25,6 +25,16 @@ I've spent most of my time focusing on:
 
 ---
 
+<h3>GITHUB STATS</h3>
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsraaYasserHussein&theme=dark" alt="Israa's GitHub Streak" width="70%">
+</div>
+
+---
+
 <h3>MY FRIEND</h3>
 take a message for you...
 
@@ -34,5 +44,3 @@ take a message for you...
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Fun Message Image">
 </div>
 <br>
-
----
