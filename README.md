@@ -19,7 +19,7 @@ I have experience working on both my private projects and as a member of team.
 I've spent most of my time focusing on:
 
 - <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python">
-- <img src="https://img.shields.io/badge/Backend-white?labelColor=black" alt="Backend"> <img src="https://img.shields.io/badge/-ASP.NET -- Java -- Databases-grey" alt="Backend stack">
+- <img src="https://img.shields.io/badge/Backend-white?labelColor=black" alt="Backend"> <img src="https://img.shields.io/badge/-ASP.NET -- JavaScript -- API -- Databases-grey" alt="Backend stack">
 - <img src="https://img.shields.io/badge/Network%20Security-white?labelColor=black" alt="Network Security"> <img src="https://img.shields.io/badge/-Firewalls -- VPNs -- Secure Protocols-grey" alt="Network Security">
 - <img src="https://img.shields.io/badge/CyberOps-white?labelColor=black" alt="CyberOps"> <img src="https://img.shields.io/badge/-Threat Analysis -- Incident Response -- Monitoring-grey" alt="CyberOps">
 
